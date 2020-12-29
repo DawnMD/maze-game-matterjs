@@ -4,4 +4,4 @@ Interactive maze games using keyboard arrow keys.
 Implemented start and end.
 Animation at the end of the game.
 
-####### Used [matterJs] (https://brm.io/matter-js/)
+###### Used [matterJs] (https://brm.io/matter-js/)
